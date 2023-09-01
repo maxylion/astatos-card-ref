@@ -16,7 +16,7 @@ setInterval(() => {
 	const deltaHours = 23 - now.getUTCHours();
 	const deltaMins = 59 - now.getUTCMinutes();
 	const deltaSec = 59 - now.getUTCSeconds();
-	dailyResetTimerText.textContent = `Daily reset in: ${deltaHours} hour(s), ${deltaMins} minute(s), ${deltaSec} second(s)!`
-	monthlySkinResetTimerText.textContent = `Montly skin reset in: ${deltaDays} day(s)!`
-	seasonResetTimerText.textContent = `Season reset in: ${monthDaysSeasonTotal} day(s)`
+	dailyResetTimerText.textContent = `Daily reset in: ${deltaHours} hour(s), ${deltaMins} minute(s), ${deltaSec} second(s)!`;
+	monthlySkinResetTimerText.textContent = `Montly skin reset in: ${deltaDays} day(s)!`;
+	seasonResetTimerText.textContent = `Season reset in: ${monthDaysSeasonTotal} day(s)!`;
 }, 1000)
