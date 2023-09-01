@@ -2,13 +2,13 @@
 
 * {
 	font-family: 'Zilla Slab', serif;
+	color: white;
 }
 body {
 	padding: 0;
 	margin: 0;
 	background-color: #3b3b3b;
 }
-#resettimer {
-	color: white;
+.timer {
 	font-size: 48px;
 }
