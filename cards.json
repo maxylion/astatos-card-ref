@@ -1,0 +1,44 @@
+{
+	"makari": {
+		"summon_cost": "1 Energy",
+		"pack": "Base",
+		"ability_g": "(Passvie) When Makari-Hari's side uses a spell card, draw one card.\n(5 turn cooldown) Lose one influence and obtain one Energy per Card held by Mukaki's side.",
+		"ability_d": "Entangled in binding lies, Makari-Hari cannot use any abilities.",
+		"name": "Makari-Hari"
+	},
+	"mukaki": {
+		"summon_cost": "1 Energy",
+		"pack": "Base",
+		"ability_g": "Engulfed in holy light, Mukaki cannot use any abilities.",
+		"ability_d": "(Passive)Players on Mukaki's side can play up to two Cards during the Trial Stage.\n(5 turn cooldown) Lose one influence. Add one cooldown to Makari-Hari and swap all cards with your opponent.",
+		"name": "Mukaki"
+	},
+	"herclaus": {
+		"summon_cost": "1 Energy",
+		"pack": "Base",
+		"ability_g": "Your opponent loses one Energy (Unless they have zero Energy remaining)",
+		"ability_d": "Your opponent loses one Energy (Unless they have zero Energy remaining)",
+		"name": "Herclaus"
+	},
+	"cerkles": {
+		"summon_cost": "1 Energy",
+		"pack": "Base",
+		"ability_g": "Makari-Hari's side draws one Card.",
+		"ability_d": "Mukaki's side draws one Card.",
+		"name": "Cerkles"
+	},
+	"krokos": {
+		"summon_cost": "1 Energy",
+		"pack": "Base",
+		"ability_g": "Mukaki's side discards one Card from their hand.",
+		"ability_d": "Makari-Hari's side discards one Card from their hand.",
+		"name": "Krokos"
+	},
+	"zermes": {
+		"summon_cost": "1 Energy",
+		"pack": "Base",
+		"ability_g": "Discard your entire hand. Pull two Cards from the deck, then keep pulling pairs of Cards as long as the Elements match, else discard the last pair and stop.",
+		"ability_d": "Discard your entire hand. Pull two Cards from the deck, then keep pulling pairs of Cards as long as the Elements match, else discard the last pair and stop.",
+		"name": "Zermes"
+	}
+}
