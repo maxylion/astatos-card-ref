@@ -40,5 +40,89 @@
 		"ability_g": "Discard your entire hand. Pull two Cards from the deck, then keep pulling pairs of Cards as long as the Elements match, else discard the last pair and stop.",
 		"ability_d": "Discard your entire hand. Pull two Cards from the deck, then keep pulling pairs of Cards as long as the Elements match, else discard the last pair and stop.",
 		"name": "Zermes"
+	},
+	"kyros": {
+		"summon_cost": "1 Energy",
+		"pack": "EX I",
+		"ability_g": "(Passive) When the Trial begins, Mukaki's side must reveal their hand to Makari-Hari's side.",
+		"ability_d": "(Passive) When the Trial begins, Makari-Hari's side must reveal their hand to Mukaki's side.",
+		"name": "Kyros"
+	},
+	"timaios": {
+		"summon_cost": "1 Energy",
+		"pack": "EX I",
+		"ability_g": "Swap the Cards in your hand with random card from your opponents's hand.",
+		"ability_d": "Swap the Cards in your hand with random card from your opponents's hand.",
+		"name": "Timaios"
+	},
+	"sulpi": {
+		"summon_cost": "2 Energy",
+		"pack": "EX I",
+		"ability_g": "(Passive) Makari-Hari's side draws their Cards last. Three Cards are pulled from the deck. Pick one to keep and return the other two Cards to the top of the deck in any order.",
+		"ability_d": "(Passive) Mukaki's side draws their Cards last. Three Cards are pulled from the deck. Pick one to keep and return the other two Cards to the top of the deck in any order.",
+		"name": "Sulpicius"
+	},
+	"regulus": {
+		"summon_cost": "1 Energy",
+		"pack": "EX I",
+		"ability_g": "Pick an element, Mukaki's side must discard all matching Cards from their hand.",
+		"ability_d": "Pick an element, Makari-Hari's side must discard all matching Cards from their hand.",
+		"name": "Regulus"
+	},
+	"drusus": {
+		"summon_cost": "2 Energy",
+		"pack": "EX I",
+		"ability_g": "Makari-Hari's side draws one card, then preforms two trials only they can participate in.",
+		"ability_d": "Mukaki's side draws one card, then preforms two trials only they can participate in",
+		"name": "Drusus"
+	},
+	"varius": {
+		"summon_cost": "2 Energy",
+		"pack": "EX I",
+		"ability_g": "Take all Energy from the Hero on Mukaki's side with the most Energy. (If a tie, pick one) This energy is then given to you.",
+		"ability_d": "Take all Energy from the Hero on Makari-Hari's side with the most Energy. (If a tie, pick one) This energy is then given to you.",
+		"name": "Varius"
+	},
+	"nikos": {
+		"summon_cost": "1 Energy",
+		"pack": "EX II",
+		"ability_g": "For every hero on Mukaki's side with no energy, turn them to your side.",
+		"ability_d": "For every hero on Makari-Hari's side with no energy, turn them to your side.",
+		"name": "Nikos"
+	},
+	"caelius": {
+		"summon_cost": "2 Energy",
+		"pack": "EX II",
+		"ability_g": "Mukaki's side must submit one Card from their hand to Makari-Hari's side. This Card is converted into Energy.",
+		"ability_d":"Makari-Hari's side must submit one Card from their hand to Mukaki's side. This Card is converted into Energy.",
+		"name": "Caelius"
+	},
+	"aristotle": {
+		"summon_cost": "1 Energy",
+		"pack": "EX II",
+		"ability_g": "(Passive) When you draw a spell card, show that Card to your opponent, the draw an additional Card. (Once per round)",
+		"ability_d":"(Passive) When you draw a spell card, show that Card to your opponent, the draw an additional Card. (Once per round)",
+		"name": "Aristotle"
+	},
+	"alkaios": {
+		"summon_cost": "1 Energy",
+		"pack": "EX II",
+		"ability_g": "Each side can wager their Energy. The side with the largest wager draws two Cards per Energy wagered. All energy offered is discarded. If tied no side wins. This ability resolves at the end of the Hero Stage.",
+		"ability_d":"Each side can wager their Energy. The side with the largest wager draws two Cards per Energy wagered. All energy offered is discarded. If tied no side wins. This ability resolves at the end of the Hero Stage.",
+		"name": "Alkaios"
+	},
+	"gaios": {
+		"summon_cost": "1 Energy",
+		"pack": "EX II",
+		"ability_g": "(Passive) The cost to preform an Exchange is reduced to two Cards for Makari-Hari's side.",
+		"ability_d":"(Passive) The cost to preform an Exchange is reduced to two Cards for Mukaki's side.",
+		"name": "Gaios"
+	},
+	"lysander": {
+		"summon_cost": "2 Energy",
+		"pack": "EX II",
+		"ability_g": "Pick an Element, convert all matching Cards from your hand into Energy.",
+		"ability_d":"Pick an Element, convert all matching Cards from your hand into Energy.",
+		"name": "Lysander"
 	}
 }
