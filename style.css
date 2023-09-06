@@ -45,7 +45,8 @@ body {
 }
 button {
 	margin: 0 1px;
-	background-color: #330000;
+	color: #3b3b3b;
+	background-color: #E9C668;
 	border: none;
 	width: 65px;
 	height: 55px;
