@@ -43,7 +43,7 @@ body {
 	margin: 0 2.5%;
 	display: flex;
 }
-button {
+.buttons * {
 	margin: 0 1px;
 	color: #3b3b3b;
 	background-color: #E9C668;
