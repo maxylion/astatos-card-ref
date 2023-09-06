@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
-.test {
-	
-}
+
 * {
 	font-family: 'Zilla Slab', serif;
 	color: white;
@@ -45,7 +43,7 @@ body {
 	margin: 0 2.5%;
 	display: flex;
 }
-.buttons * {
+button {
 	margin: 0 1px;
 	color: #3b3b3b;
 	background-color: #E9C668;
