@@ -7,19 +7,22 @@
 body {
 	padding: 0;
 	margin: 0;
-	background-color: #3b3b3b;
+	background-color: #808080;
 }
 .cardref {
 	width: 100%;
 	margin: 0 auto;
 }
 .title {
+	margin-top: 0px;
 	font-size: 32px;
 	width: 100%;
 	text-align: center;
+	
 }
 .banner {
-	background-color: #330000;
+	background-color: #550000;
+	color: white;
 }
 .container {
 	margin: 0;

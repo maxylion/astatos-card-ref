@@ -16,6 +16,7 @@ function display(name) {
         return res.json()
     }).then((data) => {
 		console.log(data)
+		document.getElementById("container").style.backgroundColor = "#550000";
 		heroNameText.textContent = `Name: ${data[name]['name']}`;
 		heroCostText.textContent = `Summon cost: ${data[name]['summon_cost']}`;
 		abilityMakariText.textContent = `Ability (Makari-Hari side): ${data[name]['ability_g']}`;
