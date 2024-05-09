@@ -7,7 +7,7 @@
 body {
 	padding: 0;
 	margin: 0;
-	background-color: #808080;
+	background-color: #444444;
 }
 .cardref {
 	width: 100%;
@@ -21,7 +21,7 @@ body {
 	
 }
 .banner {
-	background-color: #550000;
+	background-color: #8f0f0f;
 	color: white;
 }
 .container {
